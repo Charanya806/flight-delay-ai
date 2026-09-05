@@ -1,0 +1,9 @@
+flights.csv
+cleaned_flight_data.csv
+data/raw/
+data/processed/
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
