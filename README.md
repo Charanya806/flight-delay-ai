@@ -4,7 +4,10 @@ An end-to-end Machine Learning application that predicts whether a flight is lik
 
 ## 🚀 Live Demo
 
-**Streamlit App:** Add your deployed Streamlit Cloud URL here.
+**Streamlit App:** ## 🚀 Live Demo
+
+👉 [Launch Flight Delay AI](https://flight-delay-ai-bqehapgz2dcth4u3uuqtjt.streamlit.app)
+
 
 ## 📌 Project Overview
 
